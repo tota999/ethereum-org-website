@@ -9,7 +9,7 @@
   "private": false,
   "dependencies": {
     "@mdx-js/mdx": "^1.6.5",
-    "@mdx-js/react": "^1.6.5",
+    "@mdx-js/react": "^1.6.21",
     "algoliasearch": "^4.3.0",
     "axios": "^0.19.2",
     "babel-plugin-styled-components": "^1.10.7",
